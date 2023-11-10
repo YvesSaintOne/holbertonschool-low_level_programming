@@ -2,8 +2,8 @@
 #define _CODING_H_
 #include <stdio.h>
 /**
- * struct list_s 
- * @str: string 
+ * struct list_s - list
+ * @str: string -  strings
  * @len: length of the string
  * @next: points to the next node
  *
