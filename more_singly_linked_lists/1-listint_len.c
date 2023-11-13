@@ -1,14 +1,13 @@
-#include <stdio.h>
 #include "lists.h"
 
 /**
- * list_len - function with one argument
- * @h: const list_t pointer argument to struct
+ * listint_len - function with one argument
+ * @h: pointer to a struct of linked list
  *
  * Description: returns the number of elements in a linked list
  * Return: number of elements
  */
-size_t list_len(const list_t *h)
+size_t listint_len(const listint_t *h)
 {
 	unsigned int count = 0;
 
