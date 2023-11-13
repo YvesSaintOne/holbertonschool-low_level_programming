@@ -1,43 +1,14 @@
-<<<<<<< HEAD
-This README.md is for the follwoing project
-↓
------------------------
+This Readme is for files 0-10
 
-C - Singly linked lists
-....
+General Information About this Project
+↓↓↓
 
 
-General Requirements
+
+
+
 
 Allowed editors: vi, vim, emacs
-
-=======
-This README.md contains the files
-Directory: singly linked lists
-- 0-print list.c
-- 1-list len.c
-- 2-add node.c
-- 3-add node end.c
-- 4-free list.c
-
-↓ ↓ Provided Guide ↓ ↓
-
-Resources
-Read or watch:
-
-Linked Lists
-Google
-Youtube
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-General
-When and why using linked lists vs arrays
-How to build and use linked lists
-Requirements
-General
-Allowed editors: vi, vim, emacs
->>>>>>> origin
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
 A README.md file, at the root of the folder of the project is mandatory
